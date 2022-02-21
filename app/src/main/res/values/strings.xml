@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Kotlin</string>
+    <string name="facebook">facebook</string>
+    <string name="ogabek_matyakubov">Ogabek Matyakubov</string>
+    <string name="_932">932</string>
+    <string name="_154_comments_11_shares">154 Comments 11 Shares</string>
+    <string name="like">Like</string>
+    <string name="share">Share</string>
+    <string name="comment">Comment</string>
+    <string name="what_s_on_your_mind">What\'s on your mind?</string>
+    <string name="live">Live</string>
+    <string name="photo">Photo</string>
+    <string name="room">Room</string>
+    <string name="create_story">Create\nStory</string>
+    <string name="_5">+ 5</string>
+    <string name="create_post">Create Post</string>
+    <string name="post">Post</string>
+    <string name="ogabek_dev">ogabek.dev</string>
+    <string name="link_info">Ogabek Matyakubov Official Web Site. In there you can find useful things about IT and Mobile Development.</string>
+    <string name="link">https://instagram.com/Ogabekdev</string>
+</resources>

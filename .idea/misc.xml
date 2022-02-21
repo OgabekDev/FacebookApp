@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/create_post_btn.xml" value="0.2972222222222222" />
+        <entry key="app/src/main/res/drawable/create_post_btn_enabled.xml" value="0.2972222222222222" />
+        <entry key="app/src/main/res/drawable/ic_close.xml" value="0.2972222222222222" />
+        <entry key="app/src/main/res/drawable/ic_like.xml" value="0.2462962962962963" />
+        <entry key="app/src/main/res/drawable/shape_border_rounded.xml" value="0.2972222222222222" />
+        <entry key="app/src/main/res/layout/activity_create_post.xml" value="0.29739583333333336" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.296875" />
+        <entry key="app/src/main/res/layout/feed_own_post.xml" value="0.29739583333333336" />
+        <entry key="app/src/main/res/layout/item_feed_header.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/item_feed_post.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/item_feed_post_all.xml" value="0.23802083333333332" />
+        <entry key="app/src/main/res/layout/item_feed_post_change_profile.xml" value="0.23802083333333332" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
